@@ -1,0 +1,11 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Vivado/i2s2/i2s2.sim/sim_1/synth/func/xsim/top_tb_func_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module separate_tb
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Vivado/i2s2/i2s2.srcs/sources_1/new/axis_i2s2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module axis_i2s2
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Vivado/i2s2/i2s2.srcs/sources_1/new/axis_volume_controller.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module axis_volume_controller
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Vivado/i2s2/i2s2.srcs/sources_1/new/top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Vivado/i2s2/i2s2.srcs/sources_1/new/top_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top_tb

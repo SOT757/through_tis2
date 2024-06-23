@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../../i2s2.gen/sources_1/bd/design_1/ipshared/c2c6" --include "../../../../i2s2.ip_user_files/ipstatic" \
+"../../../../i2s2.srcs/sources_1/new/separate.v" \
+"../../../../i2s2.srcs/sources_1/new/separate_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
